@@ -1,3 +1,4 @@
 # Blog
 Blog for Personal Technical Portfolio
-update on 4/20/20
+
+MAC USER:MMIN92056
